@@ -1,4 +1,4 @@
-1309364240
+1309371526
 Application	/home/dan/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/dan/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/dan/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -7,6 +7,7 @@ PagesHelper	/home/dan/rails_projects/sample_app/app/helpers/pages_helper.rb	modu
 SampleApp	/home/dan/rails_projects/sample_app/config/application.rb	module SampleApp
 Str	/home/dan/rails_projects/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/home/dan/rails_projects/sample_app/public/javascripts/prototype.js	function Type(o)
+about	/home/dan/rails_projects/sample_app/app/controllers/pages_controller.rb	  def about
 abs	/home/dan/rails_projects/sample_app/public/javascripts/prototype.js	function abs()
 absolutize	/home/dan/rails_projects/sample_app/public/javascripts/prototype.js	function absolutize(element)
 addMethods	/home/dan/rails_projects/sample_app/public/javascripts/prototype.js	function addMethods(source)
